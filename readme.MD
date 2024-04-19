@@ -22,3 +22,9 @@ git push -u origin main
  **naming convention: use small case with Hyphans(-)...
 
  git add . ; git commit -m "some-message"; git push -u origin main
+
+
+ #!/bin/bash
+* shebang is the location interpreter, commands written inside shell script is interpreted and executed by this shebang
+
+ 
